@@ -3,6 +3,7 @@ void fun(int &x)
 {
     *x = 30;
 }
+
 int main()
 {
   int y = 20;
